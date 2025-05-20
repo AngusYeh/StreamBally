@@ -1,0 +1,5 @@
+.venv\Scripts\Activate.ps1
+
+
+創建 requirements.txt，包含套件與版本號
+pip freeze > requirements.txt
